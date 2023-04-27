@@ -1,15 +1,25 @@
-![Top Image](https://avatars.githubusercontent.com/u/95329795?v=4)
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Team 0x6861636B // proplayer919</h2>
 
-# PRO_PLAYER919
+```java
+  public class Me {
+    public static String getInfo() {
+      return "At school, loves coding, loves getting stuff for free";
+    }
+    
+    public static String getProjects() {
+      return "Honeycomb, Kumosa Akari, Appjet";
+    }
+  }
+```
+<h2 align="center">Skills </h2>
 
-## My Interests
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,java,c,cs,cpp,js,css,html" />
+  </a>
+</p>
 
-* JavaScript
-* C#
-* And my own programming language (still in the making), Ci
+<p align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=proplayer919&theme=tokyonight&show_icons=true">
+</p>
 
-## Current Projects
-
-* Ci
-* Deno (dynacengine) and Cix
-* Paranormal (My Game)
