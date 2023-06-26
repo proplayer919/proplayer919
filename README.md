@@ -1,6 +1,10 @@
 <h2 align="center" href="https://github.com/proplayer919"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Hayden // proplayer919 </h2>
 
 **Hi! I'm Hayden (he/him)** - A fullstack developer, project designer, and coding enthusiast based in Australia. I'm intrested in frontend and backend development, cloud computing, servers, and basically anything computers. I work on FIS (FiFly Internal Services which is APIs and backend services for [FiFly](https://github.com/fifly-llc) and you can find it [here](https://internalservices.fifly.org)), FiFly's websites (One of which is https://www.fifly.org/), Unic (Find it [here](https://github.com/fifly-llc/unic)), and random projects I get intrested in.
+
+![status](https://img.shields.io/badge/Working_on-FIS-blue)
+![food](https://img.shields.io/badge/Likes_to_eat-Any_Japanese_food_he_can_get_his_hands_on-blue)
+
 <h2 align="center">Skills </h2>
 
 <p align="center">
