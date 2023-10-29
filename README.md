@@ -1,4 +1,4 @@
-<h2 align="center" href="https://github.com/proplayer919"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Hayden // proplayer919 </h2>
+<h2 align="center"> Hayden // proplayer919 </h2>
 
 **Hi! I'm Hayden (he/him)** - A fullstack developer, project designer, and coding enthusiast based in Australia. I'm intrested in frontend and backend development, cloud computing, servers, and basically anything computers. I work on FiFly's websites (One of which is https://www.fifly.org/), Unic (Find it [here](https://github.com/fifly-llc/unic)), Turi ([here](https://github.com/pioneer-ai/turi)), Boxed (Find it [here](https://github.com/pioneer-ai/boxed)), and random projects I get intrested in.
 
