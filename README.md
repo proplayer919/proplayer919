@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./banner.png" /></h1>
+<h1 align="center"><img src="https://github.com/proplayer919/proplayer919/blob/main/banner.png" /></h1>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=proplayer919&style=flat-square&color=blue" alt=""/></div>
 
