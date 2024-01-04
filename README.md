@@ -1,4 +1,4 @@
-<h1><img src="https://imgur.com/a/2o2tPpb" align="center"/></h1>
+<h1 align="center"><img src="https://i.imgur.com/DYJIbSJ.png" align="center" height="300"/></h1>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=proplayer919&style=flat-square&color=blue" alt=""/></div>
 
