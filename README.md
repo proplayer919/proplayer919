@@ -13,7 +13,7 @@
 
 **I'm proplayer919** - I'm interested in full stack development, cloud computing, servers, and basically anything computers.
 
-- 🔭 Working on [Aphix](https://github.com/aphix-project)
+- 🔭 Working on [Hashcrack](https://github.com/proplayer919/hashcrack)
 - 🛠️ I work on projects that I get interested in
 - 📫 Contact me on Discord (@pro_player919)
 
