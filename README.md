@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-**I'm proplayer919** - I'm intrested in full stack development, cloud computing, servers, and basically anything computers.
+**I'm proplayer919** - I'm interested in full stack development, cloud computing, servers, and basically anything computers.
 
 - 🔭 Working on [Aphix](https://github.com/aphix-project)
 - 🛠️ I work on projects that I get interested in
