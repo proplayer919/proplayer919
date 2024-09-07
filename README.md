@@ -11,7 +11,7 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<b>I'm proplayer919</b> - I'm interested in full stack development, cloud computing, servers, and basically anything computers.
+<b>I'm proplayer919</b> - I'm interested in full stack development, cloud computing, AI/ML, and anything computers.
 
 - 🔭 Working on <a href="https://github.com/carbon-chat/carbon">Carbon</a>
 - 🛠️ I work on projects that I get interested in
