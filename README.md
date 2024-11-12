@@ -13,7 +13,7 @@
 
 <b>I'm proplayer919</b> - I'm interested in full stack development, cloud computing, AI/ML, and anything computers.
 
-- 🔭 Working on <a href="https://github.com/carbon-chat/carbon">Carbon</a>
+- 🔭 Working on <a href="https://github.com/indigo-chat/indigo">Indigo</a>
 - 🛠️ I work on projects that I get interested in
 - 📫 Contact me on Discord (<b>@pro_player919</b>)
 
