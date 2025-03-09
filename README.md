@@ -13,7 +13,7 @@
 
 <b>I'm proplayer919</b> - I'm interested in full stack development, cloud computing, AI/ML, and anything computers.
 
-- 🔭 Working on <a href="https://github.com/indigo-chat/indigo">Indigo</a>
+- 🔭 Working on lots of things
 - 🛠️ I work on projects that I get interested in
 - 📫 Contact me on Discord (<b>@pro_player919</b>)
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,cs,js,css,html,nodejs,bash,discord,dotnet,express,git,github,md" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,cs,js,css,html,nodejs,bash,discord,dotnet,express,git,github,md,mongodb" />
   </a>
 </p>
 
