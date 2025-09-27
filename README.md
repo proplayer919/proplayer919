@@ -44,6 +44,4 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=proplayer919&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dipaloke/dipaloke/output/github-contribution-grid-snake.svg" />
-
 
