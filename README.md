@@ -21,11 +21,11 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<b>I'm proplayer919</b> - I'm interested in full stack development, cloud computing, AI/ML, and anything computers.
+<b>I'm proplayer919</b> - I'm interested in full stack development, Minecraft, cloud computing, AI/ML, and anything computers.
 
-- 🔭 Working on [WordGrid](https://github.com/proplayer919/wordgrid)!
+- 🔭 Working on [Chasmic](https://github.com/proplayer919/Chasmic)!
 - 🛠️ I work on projects that I get interested in
-- 📫 Contact me on Matrix (<b>@pro_player919:matrix.org</b>)
+- 📫 Contact me on Matrix (**@pro_player919:matrix.org**) or Discord (**@pro_player919_**)
 
 <h2 align="center">🧰 Skills </h2>
 
@@ -36,14 +36,8 @@
 </p>
 
 <h2 align="center">🔥 GitHub Stats</h2>
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=proplayer919&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proplayer919&hide_title=true&langs_count=10&hide_border=true&theme=dark">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=proplayer919&hide_border=true&theme=dark">
-</p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=proplayer919&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proplayer919&hide_border=true&theme=dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proplayer919&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+</div>
