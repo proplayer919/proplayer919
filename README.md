@@ -1,43 +1,55 @@
-```
-                        _                        ___  _  ___  
-  _ __  _ __ ___  _ __ | | __ _ _   _  ___ _ __ / _ \/ |/ _ \ 
- | '_ \| '__/ _ \| '_ \| |/ _` | | | |/ _ \ '__| (_) | | (_) |
- | |_) | | | (_) | |_) | | (_| | |_| |  __/ |   \__, | |\__, |
- | .__/|_|  \___/| .__/|_|\__,_|\__, |\___|_|     /_/|_|  /_/ 
- |_|             |_|            |___/                                             
-```
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=proplayer919&style=flat-square&color=blue" alt=""/></div>
-<div align="center"><a href="https://github.com/proplayer919"><img src="https://img.shields.io/github/followers/proplayer919.svg?style=social&label=Follow&maxAge=2592000" alt=""/></a></div>
-
-<br>
 
 <div align="center">
-  <b>Hi There!</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+proplayer919" alt="Typing SVG" />
+<br/>
+
+![Arch Linux](https://img.shields.io/badge/MacOS-1e1e2e?style=for-the-badge&logo=macos&logoColor=cba6f7)
+[![Jetbrains](https://img.shields.io/badge/Jetbrains-1e1e2e?style=for-the-badge&logo=jetbrains&logoColor=89b4fa)](https://code.visualstudio.com)
+[![Catppuccin](https://img.shields.io/badge/Catppuccin_Mocha-1e1e2e?style=for-the-badge&logoColor=cba6f7)](https://catppuccin.com)
 </div>
 
-<br>
+---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+### About Me
 
-<b>I'm proplayer919</b> - I'm interested in full stack development, Minecraft, cloud computing, AI/ML, and anything computers.
+```python
+proplayer919 = Developer(
+    handle    = "proplayer919",
+    os        = "MacOS",
+    editors   = listOf("IntelliJ IDEA", "VSCode"),
+    focus     = listOf("Game Dev", "Open Source", "Minecraft"),
+    languages = listOf("TypeScript", "Java", "Python"),
+    hobbies   = listOf("Gaming", "Coding", "Building things nobody asked for"),
+    contact   = "me@proplayer919.dev"
+)
+```
 
-- 🔭 Working on [Chasmic](https://github.com/proplayer919/Chasmic)!
-- 🛠️ I work on projects that I get interested in
-- 📫 Contact me on Matrix (**@pro_player919:matrix.org**) or Discord (**@pro_player919_**)
+---
 
-<h2 align="center">🧰 Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,js,css,html,nodejs,java,maven,bash,discord,express,git,github,md,mongodb,flask,ubuntu,linux,netlify" />
-  </a>
-</p>
-
-<h2 align="center">🔥 GitHub Stats</h2>
+### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proplayer919&hide_border=true&theme=dark">
+
+<img src="https://skillicons.dev/icons?i=python,vscode,idea,js,css,html,nodejs,java,maven,bash,discord,git,github,md,mongodb,ubuntu,linux,netlify" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=proplayer919&hide_border=true&theme=dark">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proplayer919&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+</div>
+
+---
+
+<div align="center">
+
+📬 [me@proplayer919.dev](mailto:me@proplayer919.dev) &nbsp;·&nbsp; 🌐 [proplayer919.dev](https://proplayer919.dev)
+
+<img src="https://komarev.com/ghpvc/?username=proplayer919&style=for-the-badge&color=1e1e2e&labelColor=313244&label=Profile+Views" />
+
 </div>
